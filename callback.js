@@ -1,4 +1,4 @@
-function getAndPrintHTML (options, callback) {
+function getHTML (options, callback) {
 
   var https = require('https');
 
